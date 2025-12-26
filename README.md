@@ -21,4 +21,4 @@ If you would for some reason want to mess with this project you can grab it by:
 > flame me on stack overflow (Mandatory step)
 
 ***
-*I user Arch btw* - Klaus 
+*Made with ❤️ and 🥲 by Klaus Chamberlain*

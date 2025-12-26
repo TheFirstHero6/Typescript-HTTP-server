@@ -8,7 +8,7 @@ Now, have you ever felt that moment when you are working on a project and you fe
 **That is learning**
 
 
-It is the chasing of that intellectual suffering that drove me to write this project. To decide to learn the next hard thing in order to level up.
+It is the chasing of that intellectual suffering that drove me to write this project. To decide to learn the next hard thing in order to level up. I figured, "*Why not build the worst HTTP server in the western hemisphere?*"
 
 If you would for some reason want to mess with this project you can grab it by:
 > git clone https://github.com/TheFirstHero6/Typescript-HTTP-server.git
